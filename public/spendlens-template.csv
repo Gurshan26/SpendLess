@@ -1,0 +1,7 @@
+Date,Description,Amount,Category,Type
+2026-04-01,WOOLWORTHS 1102,-82.45,Groceries,debit
+2026-04-02,UBER EATS SYDNEY,-31.20,Dining & Restaurants,debit
+2026-04-03,NETFLIX.COM,-19.99,Subscriptions,debit
+2026-04-04,OPAL TOP UP 7003,-40.00,Transport,debit
+2026-04-05,PAYROLL ACME PTY LTD,3800.00,Income,credit
+2026-04-06,ADOBE*CREATIVE CLOUD,-54.99,Subscriptions,debit
